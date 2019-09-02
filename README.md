@@ -1,2 +1,2 @@
-# py_codes
-Python codes created for research
+# Python
+Python codes created for research, sort of a shotgun blast of usefullness
